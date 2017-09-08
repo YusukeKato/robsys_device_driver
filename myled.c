@@ -6,7 +6,7 @@
 #include <linux/io.h>
 
 MODULE_AUTHOR("Yusuke Kato");
-MODULE_DESCRIPTION("driver for LED control");
+MODULE_DESCRIPTION("LED battle game");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.0.1");
 
